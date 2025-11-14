@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Opcional, mas recomendado */
+}
+
+.container-geral{
+    display: flex;
+
+
+}
+.topo-botoes{
+    background-color: #8c8c8c;
+   justify-content: space-between;
+    border: 1px solid red;
+    display: flex;
+    width: 100%;}
+
+.btn-home{
+    display: flex;
+    margin-right: 10px;
+}
+
+.btn-servicos{  
+    display: flex;
+    margin-right: 10px;}
+
+.btn-Contato{  
+    display: flex;
+    margin-right: 10px;}
